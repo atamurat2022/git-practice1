@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project add by deploy [deploy](https://atamurat2022.github.io/git-practice1/)
 
 ## Available Scripts
 
